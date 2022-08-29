@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Pukar Kharel"
 date: "Data 2401"
 output: html_document
 ---
@@ -10,6 +10,31 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show! 
   ## and these lines are comments - anything behind a '#' doesn't run!
 ```
+```
+"Wise words" 
+Discipline is The Bridge Between Goals And Accomplishmnet - Jim Rohn
+```
+[link to quote](https://jayodonnell.com/discipline-is-the-bridge-between-goals-and-accomplishment/)
+
+##
+
+"My semester"
+
+
+*Course Name*    | **Course Number**  | Course Tittle                | *Instructor Name*    |
+:-------------   | :-------------     | :--------------------------- | :-----------------
+Data 2401        | 21352              | Data Science I               | Professor Katherin   |
+CS 1311          | 21312              | Intro to Computing w/ Python | Professor John       |
+Math 2305        | 21733              | Discrete Math Struct.        | Professor Vien       |
+Math 2421        | 22319              | Differ & Integral Calculus   | Professor Sergiy     |
+
+##
+
+"I recommend" - Akon - is very involved in the community 
+
+Akon
+*Sorry, Blame it On Me*
+
 
 
 Reminder: There is a "Markdown Help" page available in RStudio. 
