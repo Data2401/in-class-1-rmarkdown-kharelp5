@@ -10,6 +10,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show! 
   ## and these lines are comments - anything behind a '#' doesn't run!
 ```
+
 ```
 "Wise words" 
 Discipline is The Bridge Between Goals And Accomplishmnet - Jim Rohn
